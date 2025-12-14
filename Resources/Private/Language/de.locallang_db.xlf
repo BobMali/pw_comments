@@ -3,18 +3,18 @@
   <file source-language="en" datatype="plaintext" original="messages" date="2016-04-28T05:38:54Z" product-name="pw_comments" target-language="de">
     <header/>
     <body>
-      <trans-unit id="newContentElementWizardTitle" xml:space="preserve">
+      <trans-unit id="newContentElementWizardTitle" xml:space="preserve" approved="yes">
 				<source>Comments new</source>
-			<target state="translated">Neue Kommentare</target></trans-unit>
-      <trans-unit id="newContentElementWizardDescription" xml:space="preserve">
+			<target state="final">Neue Kommentare</target></trans-unit>
+      <trans-unit id="newContentElementWizardDescription" xml:space="preserve" approved="yes">
 				<source>Plugin of pw_comments which provides creation of new comments.</source>
-			<target state="translated">Plugin von pw_comments zum Anlegen von neuen Kommentaren.</target></trans-unit>
-      <trans-unit id="showContentElementWizardTitle" xml:space="preserve">
+			<target state="final">Plugin von pw_comments zum Anlegen von neuen Kommentaren.</target></trans-unit>
+      <trans-unit id="showContentElementWizardTitle" xml:space="preserve" approved="yes">
 				<source>Comments show</source>
-			<target state="translated">Anzeige Kommentare</target></trans-unit>
-      <trans-unit id="showContentElementWizardDescription" xml:space="preserve">
+			<target state="final">Anzeige Kommentare</target></trans-unit>
+      <trans-unit id="showContentElementWizardDescription" xml:space="preserve" approved="yes">
 				<source>Plugin of pw_comments which provides display of existing comments.</source>
-			<target state="translated">Plugin von pw_comments zum Anzeigen von bestehenden Kommentaren.</target></trans-unit>
+			<target state="final">Plugin von pw_comments zum Anzeigen von bestehenden Kommentaren.</target></trans-unit>
       <trans-unit id="general.pid" xml:space="preserve" approved="yes">
 				<source>PID</source>
 			<target state="final">PID</target></trans-unit>
@@ -71,7 +71,7 @@
 			<target state="final">Bewertung</target></trans-unit>
       <trans-unit id="tx_pwcomments_domain_model_vote.crdate" xml:space="preserve" approved="yes">
 				<source>Creation date</source>
-			<target state="final">Erstellungsdatum</target></trans-unit>
+			<target state="final">Erstelungsdatum</target></trans-unit>
       <trans-unit id="tx_pwcomments_domain_model_vote.orig_pid" xml:space="preserve" approved="yes">
 				<source>Page uid of the commented page</source>
 			<target state="final">UID der kommentierten Seite</target></trans-unit>
@@ -93,12 +93,12 @@
       <trans-unit id="tx_pwcomments_domain_model_vote.comment" xml:space="preserve" approved="yes">
 				<source>Comment</source>
 			<target state="final">Kommentar</target></trans-unit>
-      <trans-unit id="plugin.title.show" xml:space="preserve">
+      <trans-unit id="plugin.title.show" xml:space="preserve" approved="yes">
 				<source>pw_comments show</source>
-			<target state="needs-translation">pw_comments show</target></trans-unit>
-      <trans-unit id="plugin.title.new" xml:space="preserve">
+			<target state="final">pw_comments Anzeige</target></trans-unit>
+      <trans-unit id="plugin.title.new" xml:space="preserve" approved="yes">
 				<source>pw_comments new</source>
-			<target state="needs-translation">pw_comments new</target></trans-unit>
+			<target state="final">pw_comments Neu</target></trans-unit>
       <trans-unit id="plugin.sheet" xml:space="preserve" approved="yes">
 				<source>Settings</source>
 			<target state="final">Einstellungen</target></trans-unit>
