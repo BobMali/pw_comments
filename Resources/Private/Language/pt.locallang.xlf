@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
-  <file source-language="en" datatype="plaintext" original="messages" date="2016-04-28T05:38:38Z" product-name="pw_comments" target-language="pt-BR">
+  <file source-language="en" datatype="plaintext" original="messages" date="2016-04-28T05:38:38Z" product-name="pw_comments" target-language="pt-PT">
     <header/>
     <body>
       <trans-unit id="tx_pwcomments.comment" xml:space="preserve">
