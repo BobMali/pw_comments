@@ -107,7 +107,7 @@
 			<target state="final">n</target></trans-unit>
       <trans-unit id="tx_pwcomments.relativeDate.pluralSuffixForDay" xml:space="preserve" approved="yes">
 				<source>s</source>
-			<target state="final">n</target></trans-unit>
+			<target state="final">en</target></trans-unit>
       <trans-unit id="tx_pwcomments.notificationMail.from.mail" xml:space="preserve" approved="yes">
 				<source>newComment@%s</source>
 			<target state="final">neuerKommentar@%s</target></trans-unit>
@@ -207,15 +207,15 @@
       <trans-unit id="pageModuleNotice" xml:space="preserve" approved="yes">
 				<source>Page Module Notice: Displays info about comments on current page as notice in page module.</source>
 			<target state="final">Seitenmodul Notiz: Zeigt Informationen über Kommentare auf aktueller Seite als Notiz im Seitenmodul an.</target></trans-unit>
-      <trans-unit id="textRating" xml:space="preserve">
+      <trans-unit id="textRating" xml:space="preserve" approved="yes">
 				<source>%s of 5</source>
-			<target state="translated">%s von 5</target></trans-unit>
-      <trans-unit id="rating.title" xml:space="preserve">
+			<target state="final">%s von 5</target></trans-unit>
+      <trans-unit id="rating.title" xml:space="preserve" approved="yes">
 				<source>Rating:</source>
-			<target state="needs-translation">Rating:</target></trans-unit>
-      <trans-unit id="rating.star" xml:space="preserve">
+			<target state="final">Bewertung:</target></trans-unit>
+      <trans-unit id="rating.star" xml:space="preserve" approved="yes">
 				<source>Star</source>
-			<target state="translated">Stern</target></trans-unit>
+			<target state="final">Stern</target></trans-unit>
     </body>
   </file>
 </xliff>
